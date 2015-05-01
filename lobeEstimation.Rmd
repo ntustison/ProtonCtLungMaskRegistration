@@ -1,6 +1,6 @@
 ---
 title: <span style="color:blue;">Lung and Lobar Estimation in Proton MRI</span>
-author: Nick Tustison
+author:
 bibliography:
 logo:
 output:
