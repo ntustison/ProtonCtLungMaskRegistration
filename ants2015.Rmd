@@ -41,12 +41,26 @@ opts_chunk$set(fig.width=9, fig.height=6, fig.path=figpath,
 ```
 
 
-## Question
+# Preliminaries
 
-_How do we subdivide the lung for more local analysis in 1H MRI?_
+## <span style="color:green;">Whole lung segmentation</span>
 
 ##
 
-![](./Presentation/Figures/TemplateOctantGuide.png)
+Given a library of $N$ $^1$H lung MRI with lung masks:
+
+$^1$H$_1$ + Mask$_1$
+
+$^1$H$_2$ + Mask$_2$
+
+$\vdots$
+
+$^1$H$_N$ + Mask$_N$
+
+
+
+##
+
+$a \ne 0$
 
 
