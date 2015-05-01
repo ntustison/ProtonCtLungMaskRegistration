@@ -1,6 +1,6 @@
 ---
-title: <span style="color:blue;">Lobe estimation with consensus labeling</span>
-author:
+title: <span style="color:blue;">Lung and Lobar Estimation in Proton MRI</span>
+author: Nick Tustison
 bibliography:
 logo:
 output:
@@ -10,7 +10,7 @@ output:
   beamer_presentation:
     toc: true
     fig_width: 7
-    fig_height: 6
+    fig_height: 5
   html_document:
     toc: true
     theme: readable
@@ -41,7 +41,7 @@ opts_chunk$set(fig.width=9, fig.height=6, fig.path=figpath,
 ```
 
 
-# <span style="color:purple;">Atlas-Based Estimation of Lung and Lobar Anatomy in Proton MRI</span>
+# <span style="color:purple;">Whole lung segmentation</span>
 
 ##
 
