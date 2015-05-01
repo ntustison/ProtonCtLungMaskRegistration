@@ -106,7 +106,7 @@ The MALF algorithm takes the following input:
 
 Mask$_u$ $\leftarrow$ MALF(unsegmented $^1$H, transformed lungs, transformed masks)
 
-![](./Presentation/Figures/Figure1.tiff)
+![](./Presentation/Figures/Figure1.png)
 
 
 # <span style="color:blue;">$^1$H MRI lobe estimation</span>
@@ -133,7 +133,7 @@ Given the whole lung segmentation described in the <a href="#/whole-lung-segment
 we can _estimate_$^*$  a lobar division by a similar process.
 
 
-![](./Presentation/Figures/Figure3.tiff)
+![](./Presentation/Figures/Figure3.png)
 
 which requires the use of a lobe-annotated lung library which we can derive from CT.
 
@@ -203,7 +203,7 @@ the $^1$H lung mask.
 
 So the results _look_ good but
 
-![](./Presentation/Figures/Figure3.tiff)
+![](./Presentation/Figures/Figure3.png)
 
 how do we quantitatively assess the proposed segmentation/estimate?
 
