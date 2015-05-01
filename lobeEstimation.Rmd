@@ -41,7 +41,7 @@ opts_chunk$set(fig.width=9, fig.height=6, fig.path=figpath,
 ```
 
 
-# <span style="color:purple;">Whole lung segmentation</span>
+# <span style="color:purple;">Atlas-Based Estimation of Lung and Lobar Anatomy in Proton MRI</span>
 
 ##
 
@@ -213,7 +213,7 @@ how do we quantitatively assess the proposed segmentation/estimate?
 
 Whole lung segmentation evaluation is straightforward --- just perform a leave-one out cross-validation:
 
-* For each $^H$ lung MRI in the library:
+* For each $^1$H lung MRI in the library:
 
     * Remove the $^1$H lung MRI from the library to use as the "target."
 
